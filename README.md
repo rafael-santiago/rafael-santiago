@@ -1,4 +1,4 @@
-Hi!
+Hi! :wave:
 
 I am a computer scientist (and yes, I find this title I little bit pompous) and software developer/writer/engineer
 (I prefer these ones).
@@ -22,6 +22,8 @@ what you can find here but in a non-orthodox way because this is my thing! :wink
 
 Like a popular brazilian adage says:
 >"Quem anda muito na linha o trem passa por cima!"
+
+:vulcan_salute:!
 
 ## What I have been doing here
 
