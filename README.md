@@ -6,7 +6,7 @@ I am a computer scientist (and yes, I find this title I little bit pompous) and 
 Personally I find that on CompSci the equivalent of a theorem is a wise and problem solver code being well-executed within
 a CPU.
 
-So, much pleasure, I am a practical guy, even having some theoretic instruction.
+So, nice to meet you, I am a practical guy, even having some theoretic instruction.
 
 My main areas of interest on programming are crypto, network, kernel hacking (Unix and Windows), information security as whole
 (:smiling_imp: and :angel: stuff, but I only do the bad into well-controlled environments for learning, practice issues),
