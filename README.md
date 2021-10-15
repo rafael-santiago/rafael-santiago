@@ -26,3 +26,9 @@ Like a popular brazilian adage says:
 ## What I have been doing here
 
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rafael-santiago&skills=C,C%2b%2b,Assembly,Go,Shell,Makefile,&show-other-skills=true)
+
+<div align="center">
+  <a href="https://github.com/rafael-santiago">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-santiago&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-santiago&layout=compact&langs_count=7"/>
+</div>
