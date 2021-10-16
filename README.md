@@ -15,7 +15,7 @@ compilers and music. I have been working with Information Security for more than
 Since I started on programming I have been hooked on C and low-level programming. I am not much for frameworks and also just
 coding with training wheels or just tightening screws... Sorry for the rhyme, sad rhyme by the way!... If you want to learn
 something and as a result pushing your skills, you need to roll up your sleeves and get your hands dirty ``while(1);``.
-Easy/flat/well-behaved code teach you nothing! :exploding_head:
+Easy/flat/well-behaved code teaches you nothing! :exploding_head:
 
 My programming languages of choice (in order) are: ``C``, ``Go``, ``Assembly`` (``IA-32/64``), ``C++``, ``Shell``. So it is
 what you can find here but in a non-orthodox way because this is my thing! :wink:
