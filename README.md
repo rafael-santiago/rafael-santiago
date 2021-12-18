@@ -8,7 +8,7 @@ a CPU.
 
 So, nice to meet you, I am a practical guy, even having some theoretic instruction.
 
-My main areas of interest on programming are crypto, network, kernel hacking (Unix and Windows), information security as whole
+My main areas of interest on programming are [crypto](https://www.cryptoisnotcryptocurrency.com), network, kernel hacking (Unix and Windows), information security as whole
 (:smiling_imp: and :angel: stuff, but I only do the bad into well-controlled environments for learning, practice issues),
 compilers and music. I have been working with Information Security for more than a decade.
 
