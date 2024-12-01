@@ -9,7 +9,7 @@ a CPU.
 So, nice to meet you, I am a practical guy, even having some theoretic instruction.
 
 My main areas of interest on programming are [crypto](https://www.cryptoisnotcryptocurrency.com), network, kernel hacking (Unix and Windows), information security as whole
-(:smiling_imp: and :angel: stuff, but I only do the bad into well-controlled environments for learning, practice issues),
+(bad and construtive stuff, but I only do the bad into well-controlled environments for learning, practice issues),
 compilers and music. I have been working with Information Security for more than a decade.
 
 Since I started on programming I have been hooked on C and low-level programming.
@@ -18,6 +18,16 @@ My programming languages of choice (in order) are: ``C``, ``Go``, ``Assembly`` (
 what you can find here but in a non-orthodox way because this is my thing! :wink:
 
 :vulcan_salute:!
+
+---
+
+*PS*: My [guitar-tabs](https://github.com/rafael-santiago/guitar-tabs) repository is encrypted and
+I am not intending to share my mistakes and lousy arrangements with no one. This is about tabs
+that I have been transcribing since 13 years old (!), it is very personal, please do not ask for
+password or the plain tulip source files of mine. Definitely, I am not a well-behaved guy when
+thinking about music... You could learn my mistakes! :joy:
+
+Thanks!
 
 ## What I have been doing here
 
