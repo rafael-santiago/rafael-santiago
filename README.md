@@ -1,6 +1,6 @@
 Hi! :wave:
 
-<img align="right" width="260" height="167" src="a-day-in-a-life.gif" tooltip="A day in a life...">
+<img align="right" width="260" height="167" src="a-day-in-a-life.gif" title="A day in a life...">
 
 I am a computer scientist (and yes, I find this title I little bit pompous) and software developer/writer/engineer
 (I prefer these ones).
