@@ -1,5 +1,7 @@
 Hi! :wave:
 
+<img align="right" width="260" height="167" src="a-day-in-a-life.gif">
+
 I am a computer scientist (and yes, I find this title I little bit pompous) and software developer/writer/engineer
 (I prefer these ones).
 
@@ -30,8 +32,6 @@ thinking about music... You could learn my mistakes! :joy:
 Thanks!
 
 ## What I have been doing here
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rafael-santiago&skills=C,C%2b%2b,Assembly,Go,Shell,Makefile,&show-other-skills=true)
 
 <div align="center">
   <a href="https://github.com/rafael-santiago">
