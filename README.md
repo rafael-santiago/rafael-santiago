@@ -1,5 +1,7 @@
 Hi! :wave:
 
+**Remark:** I have been migrating to [codeberg](https://codeberg.org/rafael-santiago). Any new code I am pushing there.
+
 <img align="right" width="260" height="167" src="a-day-in-a-life.gif" title="A day in the life...">
 
 I am a computer scientist (and yes, I find this title I little bit pompous) and software developer/writer/engineer
